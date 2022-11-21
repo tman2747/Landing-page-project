@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.nav-bar{
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px;
+    color: white;
+    justify-content: space-evenly;
+}
+
+.header{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.right-links{
+    display: flex;
+    font-size: 18px;
+    gap: 10px;
+}
+
+.right-links a{
+    color: white;
+    text-decoration: none;
+}
+
+.card-1{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.left-side{
+    background-color: aqua;
+}
+.right-side{
+    background-color: aquamarine;
+
+
+}
